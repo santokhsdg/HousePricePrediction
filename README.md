@@ -23,20 +23,25 @@
 
 ## Conclusions
 - Subjective question have been added as pdf file.
-- Lambdas Ridge: 7 , Lasso: 0.001
+- Lambdas Ridge: 18.33 , Lasso: 0.0051
 - Model Selected: Ridge
-- House Price Prediction LR Results and top 5 features:
-    -    | Training R2 | Test R2 |
-          | ----------- |---------|
-          | 0.93        |0.854    |
+- House Price Prediction Ridge LR Results and top 5 features:
+    - | Training R2 | Test R2 |
+      | ----------- |---------|
+      | 0.81         |0.80    |
 
-    -   | Features | Coefficients|
-        |--------------| ----------- |
-        | GrLivArea            |	0.309804 |
-        |  Neighborhood_Crawfor |	0.287990|
- 	    | Lot Shape_IR3 	          |-0.251544|
- 	    | Poo lQC_Gd               |	-0.224594 |
- 	    | Neighborhood_MeadowV    |	-0.221007|
+   | Features             | Coefficients|
+   |-------------| ----------- |
+   | OverallQual          |	0.427518 |
+   | GrLivArea            |	0.369334|
+   | MSZoning_RM          |-0.161416|
+   | BsmtFinType1_GLQ     |	0.137959 |
+   | CentralAir_Y         |	0.087438 |
+   | BsmtCond_TA            |	0.086049 |
+   | Condition2_PosN |	-0.085530|
+   | SaleType_New 	      |0.085428|
+   | PoolArea           |	-0.073394  |
+   | GarageQual_TA |	0.061064|
 
 
 ## Technologies Used
