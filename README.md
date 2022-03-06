@@ -25,7 +25,7 @@
 - Subjective question have been added as pdf file.
 - Lambdas Ridge: 18.33 , Lasso: 0.0051
 - Model Selected: Ridge
-- House Price Prediction Ridge LR Results and top 5 features:
+- House Price Prediction Ridge LR Results and top 10 features:
     - | Training R2 | Test R2 |
       | ----------- |---------|
       | 0.81         |0.80    |
