@@ -55,9 +55,5 @@
 - scikit-learn  - version 0.24.1
 
 
-## Acknowledgements
-Thanks to UpGrad Team and Tutors of IIITB for the guidance all the way through.
-
-
 ## Contact
 Created by [@santokhsdg] - feel free to contact me!
